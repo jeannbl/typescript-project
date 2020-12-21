@@ -1,8 +1,8 @@
 # typescript-project
-This is a TypeScript project
 
-Project: Add any element from a input element.
-
-1. It uses a Stack class to add any element. 
-2. It show us a input element and a button to entered any element. 
-3. The Show Items button is used to show all current elements enetered.
+Task: Add any element from a input element.
+## Stack class
+It's used as a way to add any element. 
+## index.html
+Show us a input and a button to entered any element. 
+And "Show Items" button is used to show all current elements enetered.
